@@ -21,11 +21,10 @@ h1{
  font-weight: bold;
  margin-bottom: 10px;
 }
-.question {
+question {
     font-weight: bold;
     margin-bottom: 10px;
-
-
+} 
 .options {
     margin-bottom: 20px;
   }
@@ -57,3 +56,4 @@ background-color: #3071a9;
 .hide{
     display: none;
 }
+ChatGPT
